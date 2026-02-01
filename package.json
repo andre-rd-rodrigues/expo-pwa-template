@@ -1,5 +1,5 @@
 {
-  "name": "billance",
+  "name": "expo-pwa-template",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "packageManager": "bun@1.1.38",

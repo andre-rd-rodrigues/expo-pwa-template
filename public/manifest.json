@@ -1,6 +1,6 @@
 {
-  "short_name": "billance",
-  "name": "billance",
+  "short_name": "expo-pwa-template",
+  "name": "expo-pwa-template",
   "icons": [
     {
       "src": "favicon.ico",
